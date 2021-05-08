@@ -9,6 +9,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fall 2021 Data Science Intern Challenge 
 
+HERE is the link to the Colab notebook for the coding challenge:
+https://colab.research.google.com/drive/1G2catFblY6RFKOSDXPPP5BhjR9lcCeay?usp=sharing
+
 Please complete the following questions, and provide your thought process/work. You can attach your work in a text file, link, etc. on the application page. Please ensure answers are easily visible for reviewers!
 
 
